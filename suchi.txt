@@ -1,2 +1,4 @@
 this is my file created through bash command
 merge1
+merge2
+
